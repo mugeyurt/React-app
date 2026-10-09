@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-app/static/css/main.85b23702.css",
+    "main.js": "/React-app/static/js/main.23a82dca.js",
+    "static/media/CoralShoreRegular-XGoxd.woff": "/React-app/static/media/CoralShoreRegular-XGoxd.04578d397b7cd7d9bc15.woff",
+    "index.html": "/React-app/index.html",
+    "main.85b23702.css.map": "/React-app/static/css/main.85b23702.css.map",
+    "main.23a82dca.js.map": "/React-app/static/js/main.23a82dca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85b23702.css",
+    "static/js/main.23a82dca.js"
+  ]
+}
